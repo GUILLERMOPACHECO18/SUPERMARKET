@@ -1,4 +1,4 @@
-# super-mark
+# supermarket
 CREATE DATABASE SupermercadoDB;
 
 USE SupermercadoDB;
