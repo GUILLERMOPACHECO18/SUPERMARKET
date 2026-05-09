@@ -1,0 +1,13 @@
+{
+  "_id": "2165",
+  "nombre": "Arroz Diana",
+  "precio": 3500,
+  "stock": 120,
+  "categoria": {
+    "id_categoria": 1,
+    "nombre": "Granos"
+  },
+  "proveedor": {
+    "nombre": "Distribuidora Central"
+  }
+}
